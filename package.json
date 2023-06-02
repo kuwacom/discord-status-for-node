@@ -1,0 +1,25 @@
+{
+  "name": "discord-status-for-node",
+  "version": "1.0.0",
+  "description": "[discord status](https://github.com/kuwacom/discord-status) の nodejs バージョン",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuwacom/discord-status-for-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuwacom/discord-status-for-node/issues"
+  },
+  "homepage": "https://github.com/kuwacom/discord-status-for-node#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/discord-rpc": "^4.0.4"
+  }
+}
