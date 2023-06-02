@@ -1,2 +1,2 @@
 # discord-status-for-node
-discord status の nodejs バージョン
+[discord status](https://github.com/kuwacom/discord-status) の nodejs バージョン
